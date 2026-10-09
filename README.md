@@ -309,10 +309,9 @@ railway-reservation-system/
 
 ## 🔮 Future Scope
 
-- AI-based train recommendations from passenger history and preferences
 - Dedicated mobile app with e-tickets and real-time notifications
 - Dynamic, demand-based fare pricing
-- Voice assistant integration (Google Assistant, Siri, Alexa)
+- Voice assistant integration 
 - Biometric ticket verification at stations
 - Real-time GPS train tracking
 - Bundled food, cab, and hotel booking alongside tickets
