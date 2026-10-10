@@ -284,7 +284,7 @@ railway-reservation-system/
 ### Passenger
 - Registers and logs in with username/password
 - Searches trains by source, destination, and date
-- Books tickets, selects berth preferences, and pays
+- Books tickets, selects berth preferences, food and pays
 - Views booking history and cancels tickets when needed
 
 ### Admin
