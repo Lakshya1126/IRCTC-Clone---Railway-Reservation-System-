@@ -298,7 +298,7 @@ railway-reservation-system/
 ## ⚠️ Limitations
 
 - Requires continuous internet connectivity — no offline booking support
-- Fixed modules; adding new routes or booking rules needs backend changes
+- Fixed modules; adding new routes or booking rules needs backend changes by developer only
 - Built for a single railway network, not multiple zones or international routes
 - No dedicated mobile app — desktop/laptop optimized only
 - Limited payment gateway options
