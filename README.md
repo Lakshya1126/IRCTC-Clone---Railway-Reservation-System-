@@ -316,7 +316,7 @@ railway-reservation-system/
 - Real-time GPS train tracking
 - Bundled food, cab, and hotel booking alongside tickets
 - Multilingual interface support
-- Automated refunds and cancellations
+
 - Advanced admin analytics dashboard
 
 <div align="center">
