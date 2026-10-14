@@ -315,7 +315,7 @@ railway-reservation-system/
 - Biometric ticket verification at stations
 - Real-time GPS train tracking
 - Bundled food, cab, and hotel booking alongside tickets
-- Multilingual interface support
+
 
 - Advanced admin analytics dashboard
 
